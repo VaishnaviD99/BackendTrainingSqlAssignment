@@ -2,7 +2,9 @@
 ------Syntax
 ALTER TABLE TeacherSubjectDivStdLecture ADD CONSTRAINT Pk PRIMARY KEY (ID);
 
-------Adding Primary key to division Table by using Alter table Command------------------------------
+------Examples
+
+------Adding Primary key to division Table by using Alter table Command-------------------
 
 ALTER TABLE Division ADD CONSTRAINT IdForDiv PRIMARY KEY (ID);
 
